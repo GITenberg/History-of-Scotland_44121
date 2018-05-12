@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/526
     wikipedia: http://en.wikipedia.org/wiki/Edward_Augustus_Freeman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44121#History-of-Scotland
 gutenberg_issued: '2013-11-07'
 gutenberg_type: Text
 identifiers:
