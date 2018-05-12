@@ -1,0 +1,35 @@
+_repo: History-of-Scotland_44121
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44121-h/images/cover_image.jpg
+creator:
+  author:
+    agent_name: MacArthur, Margaret
+    gutenberg_agent_id: '42590'
+    url: http://www.gutenberg.org/2009/agents/42590
+  editor:
+    agent_name: Freeman, Edward A. (Edward Augustus)
+    aliases:
+    - Freeman, E. A. (Edward Augustus)
+    - Freeman, Edward Augustus
+    birthdate: 1823
+    deathdate: 1892
+    gutenberg_agent_id: '526'
+    url: http://www.gutenberg.org/2009/agents/526
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Augustus_Freeman
+description: ''
+gutenberg_issued: '2013-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44121'
+  lccn: 03028038
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- History -- Outlines, syllabi, etc.'
+- !lcc 'DA'
+title: History of Scotland
+url: http://www.gutenberg.org/ebooks/44121
